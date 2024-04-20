@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 import SearchForm from './SearchForm';
 import MovieList from './MovieList';
-import axios from 'axios';
+
 
 const API_KEY = '4893877286f3f5bec98a69d910da0ceb'; // Replace with your TMDb API key
 
